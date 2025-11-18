@@ -212,8 +212,13 @@ clean
 
 This calls `clear_scan_history()` in `db.py`.
 
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file in the project root for full details.
+
 ## ⚠️ Legal Disclaimer
 
 This tool is intended only for authorized security testing.
 Do not scan systems without explicit permission.
 You are responsible for all actions performed with this software.
+
